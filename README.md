@@ -1,12 +1,8 @@
 ## Crear una clase Libro que contenga los siguientes atributos:
 – ISBN
-
 – Titulo
-
 – Autor
-
 – Número de páginas
-
 - Crear sus respectivos métodos get y set correspondientes para cada atributo. 
 - Crear el método toString() para mostrar la información relativa al libro con el siguiente formato:
 
